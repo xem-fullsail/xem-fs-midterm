@@ -18,5 +18,16 @@
     <ClCompile Include="Midterm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="QAPair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Midterm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QAPair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
