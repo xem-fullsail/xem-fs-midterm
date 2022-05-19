@@ -23,9 +23,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Midterm.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="QAPair.h">
       <Filter>Header Files</Filter>
     </ClInclude>
